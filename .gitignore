@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.vscode/
+.env
+
+# Generated experiment results
+solution/results/*.npy
+solution/results/*.csv
