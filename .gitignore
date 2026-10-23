@@ -12,3 +12,5 @@ solution/results/*.csv
 
 # ESA reference simulator and data
 external/esa/
+
+solution/results/*.json
