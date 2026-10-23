@@ -14,3 +14,6 @@ solution/results/*.csv
 external/esa/
 
 solution/results/*.json
+
+# Local optimization results
+/solution/results/
