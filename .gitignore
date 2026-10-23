@@ -9,3 +9,6 @@ __pycache__/
 # Generated experiment results
 solution/results/*.npy
 solution/results/*.csv
+
+# ESA reference simulator and data
+external/esa/
